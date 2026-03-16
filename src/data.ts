@@ -68,8 +68,8 @@ export const categories: Category[] = [
 export const watches: Watch[] = [
   {
     id: 1,
-    name: "Royal Gold Classic",
-    category: "men",
+    name: "As a example",
+    category: "hijran",
     price: 12500,
     originalPrice: 15000,
     discount: 17,
@@ -92,7 +92,7 @@ export const watches: Watch[] = [
         image: "/images/watches/royal-gold-classic-black.jpg"
       }
     ],
-    features: ["Quartz Movement", "Water Resistant 30m", "Genuine Leather", "2 Year Warranty"],
+    features: ["Quartz Movement", "Water Resistant 30m", "Genuine Leather", "2 Year Warranty","Zain Mughal"],
     bestseller: true
   },
   {
