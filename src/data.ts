@@ -74,7 +74,7 @@ export const watches: Watch[] = [
     originalPrice: 10000,
     discount: 17,
     description: "Elegant timepiece with genuine Oyster strap. Features precision quartz movement and water resistance up to 38m.",
-    mainImage: "/images/watches/daytona blue.jfif
+    mainImage: "/images/watches/daytona blue.jpg"
       {
         color: "Blue Sea",
         colorCode: "#D4AF37",
