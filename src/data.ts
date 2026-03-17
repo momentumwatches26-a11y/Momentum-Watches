@@ -68,13 +68,13 @@ export const categories: Category[] = [
 export const watches: Watch[] = [
   {
     id: 1,
-    name: "As a example",
-    category: "hijran",
-    price: 12500,
-    originalPrice: 15000,
+    name: "Rolex Daytona",
+    category: "Men",
+    price: 8499,
+    originalPrice: 10000,
     discount: 17,
-    description: "Elegant gold-plated timepiece with genuine leather strap. Features precision quartz movement and water resistance up to 30m.",
-    mainImage: "/images/watches/royal-gold-classic-gold.jpg",
+    description: "Elegant timepiece with genuine Oyster strap. Features precision quartz movement and water resistance up to 38m.",
+    mainImage: "/images/watches/.jpg",
     variants: [
       {
         color: "Gold",
